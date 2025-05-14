@@ -9,10 +9,8 @@ Welcome to my personal website! This is a simple, interactive site built to show
 
 Screenshots
 
-![Screenshot 2025-05-14 141418](https://github.com/user-attachments/assets/b9e7e0e3-cf81-4d98-9c68-0ff5cf8b5c27)                         ![Screenshot 2025-05-14 141532](https://github.com/user-attachments/assets/24f0edca-a6e4-4e65-87b0-5e974fa9f9a1)
-
-
-
+![image](https://github.com/user-attachments/assets/dddd465f-54ad-499d-b59f-a061e6cb67c2)
+![Screenshot 2025-05-14 141532](https://github.com/user-attachments/assets/24f0edca-a6e4-4e65-87b0-5e974fa9f9a1)
 ![Screenshot 2025-05-14 141547](https://github.com/user-attachments/assets/bef503ab-f4ea-4129-abd1-3abe051e212c)
 
 
