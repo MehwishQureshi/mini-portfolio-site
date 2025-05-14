@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    -webkit-text-fill-color: white;
+}
+
+#coder{
+    border-radius: 50%;
+}
+
+a{
+    -webkit-text-fill-color: white;
+}
+
+button{
+    background-color: lightblue;
+}
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
